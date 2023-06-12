@@ -1,0 +1,11 @@
+Source: ntpsec-modified-init
+Section: system
+Priority: optional
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Build-Depends: debhelper (>=10)
+Standards-Version: 3.9.8
+
+Package: ntpsec-modified-init
+Architecture: all
+Depends:
+Description: modified sysvinit script for ntpsec

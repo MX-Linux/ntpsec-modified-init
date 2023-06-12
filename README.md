@@ -1,2 +1,2 @@
-# ntpsec-modified-init
-modified init script for ntpsec
+# avahi-sysvinit-compat
+sysvinit script for avahi
